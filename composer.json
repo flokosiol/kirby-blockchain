@@ -1,0 +1,15 @@
+{
+    "name": "flokosiol/kirby-blockchain",
+    "description": "Kirby Blockchain",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flo Kosiol",
+            "email": "git@flokosiol.de"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    }
+}
